@@ -38,7 +38,6 @@
         </h1>
 
         <p>
-            Old school sneaker webshop téglafalas graffiti vibe-bal.
             Underground streetwear energia, kosaras hangulat és klasszikus sneaker kultúra.
         </p>
 
@@ -60,7 +59,7 @@
 
             <div class="card-content">
                 <h3>Balenciaga Triple S Black 2019</h3>
-                <div class="price">44 990 Ft</div>
+                <div class="price">124,49 €</div>
                 <button>KOSÁRBA</button>
             </div>
 
@@ -68,11 +67,11 @@
 
         <div class="card">
 
-            <img src="./images/Urban Pro 2020.avif">
+            <img src="./images/adidas yeezy 700 wave runner.jfif">
 
             <div class="card-content">
-                <h3>URBAN PRO</h3>
-                <div class="price">39 990 Ft</div>
+                <h3>Adidas Yeezy 700 Wave Runner</h3>
+                <div class="price">110,65 €</div>
                 <button>KOSÁRBA</button>
             </div>
 
@@ -80,11 +79,11 @@
 
         <div class="card">
 
-            <img src="https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1200&auto=format&fit=crop">
+            <img src="./images/Jordan 1 Marina Blue.jpg">
 
             <div class="card-content">
-                <h3>WALL RUNNER</h3>
-                <div class="price">49 990 Ft</div>
+                <h3>Jordan 1 Marina Blue</h3>
+                <div class="price">138,32 €</div>
                 <button>KOSÁRBA</button>
             </div>
 
@@ -99,7 +98,7 @@
     <h2>SNEAKERHEAVEN</h2>
 
     <p>
-        GRAFFITI • STREETBALL • OLD SCHOOL • SNEAKERS
+        STREETBALL • SNEAKERS
     </p>
 
 </section>
@@ -131,7 +130,7 @@
     </div>
 
     <div class="copy">
-        © 2026 SNEAKERHEAVEN — STREET CULTURE
+        © 2026 SNEAKERHEAVEN
     </div>
 
 </footer>
