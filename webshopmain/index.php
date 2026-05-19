@@ -16,8 +16,8 @@
         <div class="logo">SNEAKERHEAVEN</div>
 
         <ul>
-            <li><a href="#">FŐOLDAL</a></li>
-            <li><a href="#">SHOP</a></li>
+            <li><a href="./index.php">FŐOLDAL</a></li>
+            <li><a href="./products.php">TERMÉKEK</a></li>
             <li><a href="#">ÚJDONSÁGOK</a></li>
             <li><a href="#">KOSÁR</a></li>
             <li><a href="./profile.php">PROFIL</a></li>
