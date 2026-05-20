@@ -44,7 +44,7 @@ $shoes = getAllShoes();
                                 <p><?= htmlspecialchars($shoe['description'], ENT_QUOTES, 'UTF-8') ?></p>
                             <?php endif; ?>
                             <div class="card-actions">
-                                <button class="btn-add">Újonnan</button>
+                                <button class="btn-add">ÚJONNAN</button>
                                 <button class="btn-used">HASZNÁLT</button>
                             </div>
                         </div>
